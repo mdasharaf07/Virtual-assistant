@@ -23,7 +23,7 @@ Edit
 ├── script.js         
 ├── mic.svg           
 ├── voice.gif         
-├── jarvis1.jpg       
+├── igris1.jpg       
 🛠️ Tech Stack
 HTML5
 
@@ -46,7 +46,7 @@ You can include a screenshot or GIF here:
 
 
 # 📌 Example Commands
-"Hello Jarvis"
+"Arise Igris"
 
 "What is the time?"
 
