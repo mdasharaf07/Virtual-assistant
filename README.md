@@ -1,5 +1,8 @@
-# 🎙️ Virtual Assistant (Igris) – Web-Based Voice Assistant
-This is a simple web-based virtual assistant built using HTML, CSS, and JavaScript. It can respond to voice commands and perform basic tasks such as opening websites, telling the time, and giving responses—all through your browser.
+# 🎙️ Virtual Assistant (Jarvis) – Web-Based Voice Assistant
+This is a simple web-based virtual assistant built using HTML, CSS, and JavaScript. It can respond to voice commands and perform basic tasks such as opening websites, telling the time, and giving responses—all through your browser
+
+# 📸 Demo Preview
+![Uploading image.png](https://i.postimg.cc/vHF1RSn9/jarvis1.jpg)
 
 # 🚀 Features
 🎤 Voice recognition using Web Speech API
@@ -23,7 +26,7 @@ Edit
 ├── script.js         
 ├── mic.svg           
 ├── voice.gif         
-├── igris1.jpg       
+├── jarvis.jpg       
 🛠️ Tech Stack
 HTML5
 
@@ -40,13 +43,8 @@ Open index.html in a modern browser (preferably Chrome).
 
 Click the microphone icon and start speaking!
 
-# 📸 Demo Preview
-You can include a screenshot or GIF here:
-
-
-
 # 📌 Example Commands
-"Arise Igris"
+"Hello Jarvis"
 
 "What is the time?"
 
@@ -55,5 +53,4 @@ You can include a screenshot or GIF here:
 "Open YouTube"
 
 # 🧑‍💻 Author
-Mohamed Asharaf
-
+Created by Mohamed Asharaf ❤️
